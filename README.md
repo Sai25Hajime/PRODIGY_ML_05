@@ -1,5 +1,5 @@
 # PRODIGY_ML_05
-I have developed a deep learning model based on Task-05: "Develop a model that can accurately recognize food items from images and estimate their calorie content, enablingusers to track their dietary intake and make informed food choices". It is capable of identifying food items from images and estimating their calorie content. This model can aid in dietary tracking and help users make healthier food choices.
+I have developed a deep learning model based on Task-05: "Develop a model that can accurately recognize food items from images and estimate their calorie content, enabling users to track their dietary intake and make informed food choices". It is capable of identifying food items from images and estimating their calorie content. This model can aid in dietary tracking and help users make healthier food choices.
 
 # Steps for using the dataset
 1. Download the directory from the above given website link.
